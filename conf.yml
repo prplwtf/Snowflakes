@@ -1,0 +1,27 @@
+info:
+  name: "Snowflakes"
+  identifier: "snowflakes"
+  description: "Add snowflakes to your Pterodactyl dashboard."
+  flags: ""
+  version: "1.0"
+  target: "alpha-NLM"
+  author: "prplwtf"
+  icon: ":public/iconalt.jpg"
+  website: "https://github.com/prplwtf/blueprint-snowflakes"
+
+admin:
+  view: ":admin/view.blade.php"
+  controller: ""
+  css: ""
+  wrapper: ""
+
+dashboard:
+  css: ""
+  wrapper: ":dashboard/wrapper.blade.php"
+
+data:
+  directory: ""
+  public: ":public"
+
+database:
+  migrations: ""

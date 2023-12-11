@@ -24,5 +24,5 @@ To remove Snowflakes from your Pterodactyl panel, run `blueprint -remove snowfla
 
 <br>
 
-### Screenshots
-soon™️
+### Preview
+![](https://i.imgur.com/F602zxa.png)
