@@ -13,7 +13,7 @@ admin:
   view: ":admin/view.blade.php"
   controller: ""
   css: ""
-  wrapper: ""
+  wrapper: ":admin/wrapper.blade.php"
 
 dashboard:
   css: ""
